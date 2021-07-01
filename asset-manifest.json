@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/xpath-generator/static/css/main.adc5e671.chunk.css",
-    "main.js": "/xpath-generator/static/js/main.56a8c3cd.chunk.js",
-    "main.js.map": "/xpath-generator/static/js/main.56a8c3cd.chunk.js.map",
+    "main.js": "/xpath-generator/static/js/main.f31f7315.chunk.js",
+    "main.js.map": "/xpath-generator/static/js/main.f31f7315.chunk.js.map",
     "runtime-main.js": "/xpath-generator/static/js/runtime-main.0151ffb3.js",
     "runtime-main.js.map": "/xpath-generator/static/js/runtime-main.0151ffb3.js.map",
     "static/js/2.53544e80.chunk.js": "/xpath-generator/static/js/2.53544e80.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0151ffb3.js",
     "static/js/2.53544e80.chunk.js",
     "static/css/main.adc5e671.chunk.css",
-    "static/js/main.56a8c3cd.chunk.js"
+    "static/js/main.f31f7315.chunk.js"
   ]
 }
